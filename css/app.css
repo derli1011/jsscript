@@ -1,0 +1,24 @@
+.preencher{
+width: 50vw;
+height: 3000px;
+
+
+
+
+}
+.vermelho{
+    background-image: linear-gradient(green, yellow, red, orange)
+
+
+}
+
+.verde{
+    background-image: linear-gradient(green, yellow, red, orange);
+    
+}
+
+.azul{
+
+    background: blue;
+
+}
